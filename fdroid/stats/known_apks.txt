@@ -1,1 +1,2 @@
+org.onionshare.android.nightly_1637699340.apk org.onionshare.android.nightly 2021-11-23
 org.onionshare.android_1.apk org.onionshare.android 2021-11-23
